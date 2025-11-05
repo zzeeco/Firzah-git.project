@@ -1,0 +1,5 @@
+a = 2
+b = 3
+
+hitung = a*b
+hitunglagi = a/b
