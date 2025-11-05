@@ -27,3 +27,9 @@ def calculator():
                 operasi = "/"
             else:
                 print("Error: Tidak bisa dibagi dengan nol!")
+
+a = 2
+b = 3
+
+hitung = a+b
+hitunglgi = a/b
