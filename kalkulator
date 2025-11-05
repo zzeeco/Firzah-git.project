@@ -31,4 +31,5 @@ def calculator():
 a = 2
 b = 3
 
-hitung = a/b
+hitung = a+b
+hitunglgi = a/b
